@@ -19,7 +19,8 @@
   "readmeFilename": "README.md",
 
   "dependencies": {
-    "bignum": "0.6.1"
+    "bignum": "0.6.1",
+    "bcrypt": "0.7.7"
   },
 
   "devDependencies": {
